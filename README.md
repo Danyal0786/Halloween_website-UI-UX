@@ -1,4 +1,4 @@
-### Responsive Halloween Website 🎃
+### Responsive Halloween Web Design 🎃
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
